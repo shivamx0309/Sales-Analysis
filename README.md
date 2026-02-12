@@ -6,6 +6,9 @@ This project performs **Exploratory Data Analysis (EDA)** on a multi-sheet sales
 The final outcome is a **clean analytical dataset**, meaningful **business insights**, and **visualizations ready for dashboarding (Power BI/Tableau)**.
 
 ---
+### Preview Dashboard
+
+![Sales Dashboard](Dashboard_image.png)
 
 ## 🎯 Objectives
 
@@ -144,9 +147,5 @@ This project demonstrates:
 
 ---
 
-
-### Preview Dashboard
-
-![Sales Dashboard](Dashboard_image.png)
 
 
