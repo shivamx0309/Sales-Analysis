@@ -147,5 +147,6 @@ This project demonstrates:
 
 ### Preview Dashboard
 
-Dashboard_image.png
+![Sales Dashboard](Dashboard_image.png)
+
 
